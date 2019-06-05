@@ -169,14 +169,14 @@ namespace GitTrimmer
                 string path = ProjectRootControl.Text;
 
                 // create an object to hold the types of objects to find
-                List<string> imageFiles = new List<string>();
+                List<string> extensions = new List<string>();
                 
                 // add extensions to find
-                imageFiles.Add(".jpg");
-                imageFiles.Add(".png");
+                extensions.Add(".jpg");
+                extensions.Add(".png");
 
                 // load the files
-                FileHelper.GetFilesRecursively(path, ref files, imageFiles);
+                FileHelper.GetFilesRecursively(path, ref files, extensions);
 
                 // If the files collection exists and has one or more items
                 if (ListHelper.HasOneOrMoreItems(files))
