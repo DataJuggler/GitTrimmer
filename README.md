@@ -8,3 +8,9 @@ I mainly use this for the 'This will look good idea, that turned out to be an ey
 Use this project at your own risk, as this has not been tested througly.
 
 I did just ran on about 5 projects and it worked. On a few projects I had to go hunt for the file in the External Folder and restore it.
+
+Please visit my YouTube channel as I update new videos often:
+
+https://www.youtube.com/channel/UCaw0joqvisKr3lYJ9Pd2vHA
+
+
