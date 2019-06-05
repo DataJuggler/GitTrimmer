@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTrimmer", "GitTrimmer\GitTrimmer.csproj", "{F52E95A6-5CB1-46CC-89C8-8F9093EDAD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTrimmer.Objects", "GitTrimmer.Objects\GitTrimmer.Objects.csproj", "{B8AFDE5B-0C0F-4043-A82A-698031587422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52E95A6-5CB1-46CC-89C8-8F9093EDAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52E95A6-5CB1-46CC-89C8-8F9093EDAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52E95A6-5CB1-46CC-89C8-8F9093EDAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52E95A6-5CB1-46CC-89C8-8F9093EDAD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AFDE5B-0C0F-4043-A82A-698031587422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AFDE5B-0C0F-4043-A82A-698031587422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AFDE5B-0C0F-4043-A82A-698031587422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AFDE5B-0C0F-4043-A82A-698031587422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C014BE59-D681-4EBB-A705-B305BF5B4B34}
+	EndGlobalSection
+EndGlobal
